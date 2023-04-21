@@ -6,8 +6,14 @@ import { StyleSheet, SafeAreaView } from "react-native";
 
 const Untitled1 = () => {
   return <SafeAreaView style={styles.safeArea}>
-
-    <Pressable><View style={styles.JeZRMVJL}><Text style={styles.lUHFSYXt}>Calc Weight</Text></View></Pressable><TextInput style={styles.rXKVsyyG} placeholder="after egestion"></TextInput><TextInput style={styles.MUBRWuvA} placeholder="coffee drank"></TextInput></SafeAreaView>;
+      <Pressable>
+        <View style={styles.JeZRMVJL}>
+          <Text style={styles.lUHFSYXt}>Calc Weight</Text>
+        </View>
+      </Pressable>
+      <TextInput style={styles.rXKVsyyG} placeholder="after egestion"></TextInput>
+      <TextInput style={styles.MUBRWuvA} placeholder="coffee drank"></TextInput>
+    </SafeAreaView>;
 };
 
 const styles = StyleSheet.create({
