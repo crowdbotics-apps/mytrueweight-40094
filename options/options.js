@@ -2,7 +2,7 @@ export const globalOptions = {
   "name": "mytrueweight-40094",
   "url": "https://mytrueweight-40094.botics.co",
   "api": "https://mytrueweight-40094.botics.co/api/v1",
-  "initialRoute": "Untitled1"
+  "initialRoute": "Untitled4"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
